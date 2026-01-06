@@ -17,7 +17,7 @@ export default function Resume() {
 
 				<ZoomImg
 					className="w-[70%] sm:w-[75%] md:w-[80%] absolute bottom-[-10px] sm:bottom-[-15px] md:bottom-[-20px] left-[10px] sm:left-[15px] md:left-[20px] z-10 rotate-12 hover:rotate-[16deg] hover:scale-[1.1] transition-transform peer cursor-pointer rounded-lg"
-					src="resume1.png"
+					src="resume2.png"
 					alt="Resume"
 				/>
 
